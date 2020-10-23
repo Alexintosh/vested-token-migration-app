@@ -13,16 +13,16 @@
       },
       "frame": {
         "network": "mainnet",
-        "appName": "pie-migration-app.open.aragonpm.eth",
+        "appName": "wallem-migration-app.open.aragonpm.eth",
         "wsRPC": "wss://mainnet.infura.io/ws/v3/ffa6c1dc83e44e6c9971d4706311d5ab"
       },
       "rinkeby": {
         "registry": "0x98df287b6c145399aaa709692c8d308357bc085d",
         "network": "rinkeby",
-        "appName": "pie-migration-app.open.aragonpm.eth",
+        "appName": "wallem-migration-app.open.aragonpm.eth",
         "wsRPC": "wss://rinkeby.eth.aragon.network/ws"
       }
     },
     "path": "contracts/VestedTokenMigration.sol",
-    "appName": "pie-token-migration.open.aragonpm.eth"
+    "appName": "wallem-migration-migration.open.aragonpm.eth"
   }
